@@ -1,12 +1,13 @@
 
 # Tailwind CSS & Elm boilerplate
 
-This is boilerplate for ELM and tailwind. 
+### Prerequisite
 
-### Installation
-Ensure you have create-elm-app installed in your machine.
+install Elm 0.19.1 using [elm-version-manager](https://github.com/mattludwigs/elm-version-manager)
 
-Run `npm install`
+install create-elm-app via `yarn add create-elm-app`
+
+install via `yarn`
 
 ### Script
 Run `npm start` will start the project
