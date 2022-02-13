@@ -7,6 +7,7 @@
     "test": "tests"
   },
   "scripts": {
+    "g" : "git add . && git commit -m \".\" && git push origin master",
     "refresh": "npx tailwind build src/input.css -o src/main.css",
     "start": "elm-app start"
   },
